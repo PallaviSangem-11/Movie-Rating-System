@@ -83,9 +83,9 @@ const Navbar = () => {
               </button>
             </form>
             <ul className="navbar-nav ms-auto mb-2 mb-lg-0 align-items-center">
-              <li className="nav-item me-3">
+              {/* <li className="nav-item me-3">
                 <ThemeToggle />
-              </li>
+              </li> */}
               <li className="nav-item dropdown">
                 <a
                   href="#"
